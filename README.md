@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://cdn.jsdelivr.net/gh/fangaso/type.svg/loading.svg)
+![](https://cdn.jsdelivr.net/gh/fangaso/type.svg/loader-line.svg)
+
 <!--
 **fangaso/fangaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
