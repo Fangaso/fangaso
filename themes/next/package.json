@@ -1,5 +1,5 @@
 {
-  "name": "next",
+  "name": "hexo-theme-next",
   "version": "8.5.0",
   "description": "Elegant and powerful theme for Hexo.",
   "main": "package.json",
