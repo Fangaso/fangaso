@@ -69,7 +69,7 @@ pagination_dir: page
 # Extensions 扩展
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: langscape
 
 # Deployment 部署
 ## Docs: https://hexo.io/docs/deployment.html
